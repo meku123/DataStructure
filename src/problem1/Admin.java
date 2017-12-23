@@ -1,5 +1,10 @@
 package problem1;
 import java.util.*;
+/**
+ * 
+ * @author Mekonnen
+ *
+ */
 public class Admin {
 	public static HashMap<Key, Student> 
 	processStudents(List<Student> students) {
